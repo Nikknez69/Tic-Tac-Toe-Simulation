@@ -4,7 +4,7 @@
 
 ### Tic-Tac-Toe Simulator
 
-This program is designed to simulate win probabilities in Tic Tac Toe. It is developed by Nikola Knezevic, Lya Marti, and Simon Heller on April 22, 2024.
+This program is designed to simulate win probabilities in Tic Tac Toe. It is developed by Nikola Knezevic, Lya Marty, and Simon Heller on April 22, 2024.
 
 #### Description
 The program estimates the winning probability for Player 1 under different scenarios.
@@ -20,7 +20,7 @@ The program estimates the winning probability for Player 1 under different scena
 
 ### Tic-Tac-Toe-Simulation
 
-Dieses Programm simuliert die Gewinnwahrscheinlichkeiten beim Tic Tac Toe. Es wurde von Nikola Knezevic, Lya Marti und Simon Heller am 22. April 2024 entwickelt.
+Dieses Programm simuliert die Gewinnwahrscheinlichkeiten beim Tic Tac Toe. Es wurde von Nikola Knezevic, Lya Marty und Simon Heller am 22. April 2024 entwickelt.
 
 #### Beschreibung
 Das Programm schätzt die Gewinnwahrscheinlichkeit für Spieler 1 unter verschiedenen Szenarien.
